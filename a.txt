@@ -1,0 +1,10 @@
+ Volume in drive E is New Volume
+ Volume Serial Number is 6AA3-93EC
+
+ Directory of E:\SreeRama\Learnings\Git\GitAndGitHub-StepByStep4Begnrs_RaghavPal\MyProject
+
+07/23/2021  03:37 PM    <DIR>          .
+07/23/2021  03:37 PM    <DIR>          ..
+07/23/2021  03:37 PM                 0 a.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  144,775,372,800 bytes free
